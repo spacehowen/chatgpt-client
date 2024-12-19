@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ChatGPT Client
+GenericName=Cliente de ChatGPT
+Comment=Aplicación para interactuar con ChatGPT
+Exec=/usr/bin/chatgpt-client
+Icon=chatgpt-client
+Terminal=false
+Categories=Utility;Application;
